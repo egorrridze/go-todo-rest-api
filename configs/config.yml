@@ -1,8 +1,8 @@
 port: "8000"
 
 db:
-  username: "postgres"
-  host: "localhost"
+  username: "rgtwvobtvfhicz"
+  host: "ec2-52-48-159-67.eu-west-1.compute.amazonaws.com"
   port: "5432"
-  dbname: "todo-app"
-  sslmode: "disable"
+  dbname: "dbcg1s5kc6r7hb"
+  sslmode: "require"
