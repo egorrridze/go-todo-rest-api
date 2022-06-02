@@ -6,4 +6,3 @@ db:
   port: "5432"
   dbname: "dbcg1s5kc6r7hb"
   sslmode: "require"
-  password: "7c86b881794673cc15d42f9243a46641b23d5b0217168b850dd28d4154ddf0b1"
